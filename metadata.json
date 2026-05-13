@@ -1,0 +1,9 @@
+{
+  "name": "Shilpa-Kala",
+  "description": "A digital portfolio assistant and guided camera tool for artisans to professionalize their handcrafted artifacts with beautiful luxury catalog backgrounds and branding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
