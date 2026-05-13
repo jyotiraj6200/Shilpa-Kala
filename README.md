@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/0998cc54-65ac-4f96-8996-f9e22eed0706
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+Shilpa-Kala is a modern Android and web-based application developed to promote Indian handicrafts, handmade artwork, and artisan products through a digital platform.
+The project helps local artisans showcase their handcrafted products online with a beautiful user interface, multilingual support, and AI-powered features.
+This application combines modern frontend technologies with mobile app integration to provide users with a smooth and interactive shopping and exploration experience.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Features:
+1) Modern and attractive UI/UX
+2) Multilingual translation support
+3) Android application support using Capacitor
+4) Fast performance with Vite
+5) AI-powered integrations using Google GenAI
+6) Product showcase interface
+7) Responsive and mobile-friendly design
+8) Cross-platform support
+9) TypeScript-based development
+10) Easy deployment and scalability
+
+
+Purpose of the Project:
+The main objective of Shilpa-Kala is to digitally empower local artisans and promote traditional Indian handicrafts through technology. The platform aims to:
+
+1) Support small-scale artisans
+2) Promote handmade products globally
+3) Preserve traditional Indian art and culture
+4) Provide a digital marketplace experience
+5) Improve accessibility using multilingual support
